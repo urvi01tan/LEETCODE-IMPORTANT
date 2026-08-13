@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 <!---LeetCode Topics End-->
