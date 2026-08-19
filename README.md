@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Binary Search
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2119-a-number-after-a-double-reversal](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2769-find-the-maximum-achievable-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2769-find-the-maximum-achievable-number) |
@@ -161,4 +165,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
