@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
+| [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
+| [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
+| [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Binary Search
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2769-find-the-maximum-achievable-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2769-find-the-maximum-achievable-number) |
