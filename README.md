@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
