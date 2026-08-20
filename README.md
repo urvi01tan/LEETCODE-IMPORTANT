@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Knapsack Problem
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
