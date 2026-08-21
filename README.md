@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0078-subsets) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0278-first-bad-version) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 ## Interactive
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0191-number-of-1-bits) |
 ## Number Theory
