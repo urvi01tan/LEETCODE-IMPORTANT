@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3169-count-days-without-meetings) |
