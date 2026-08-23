@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0784-letter-case-permutation) |
+| [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
+| [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0371-sum-of-two-integers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2769-find-the-maximum-achievable-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2769-find-the-maximum-achievable-number) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0511-game-play-analysis-i) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
