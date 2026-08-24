@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0128-longest-consecutive-sequence) |
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
+| [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0278-first-bad-version) |
+| [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 ## Interactive
@@ -163,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [2090-k-radius-subarray-averages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3090-maximum-length-substring-with-two-occurrences) |
