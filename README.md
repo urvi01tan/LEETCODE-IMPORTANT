@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
+| [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [1642-furthest-building-you-can-reach](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1642-furthest-building-you-can-reach) |
 | [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 ## Interactive
 |  |
