@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0511-game-play-analysis-i) |
+| [3564-seasonal-sales-analysis](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3564-seasonal-sales-analysis) |
 ## Game Theory
 |  |
 | ------- |
