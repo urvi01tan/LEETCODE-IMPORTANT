@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Binary Search
