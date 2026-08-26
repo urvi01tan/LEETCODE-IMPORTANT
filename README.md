@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0785-is-graph-bipartite) |
 ## Design
 |  |
 | ------- |
@@ -295,4 +298,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0300-longest-increasing-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
