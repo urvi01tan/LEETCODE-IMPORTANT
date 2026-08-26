@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0128-longest-consecutive-sequence) |
+| [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0371-sum-of-two-integers) |
 | [0784-letter-case-permutation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0784-letter-case-permutation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
@@ -272,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
