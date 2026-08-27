@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1642-furthest-building-you-can-reach](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1642-furthest-building-you-can-reach) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2090-k-radius-subarray-averages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2090-k-radius-subarray-averages) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0300-longest-increasing-subsequence) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
