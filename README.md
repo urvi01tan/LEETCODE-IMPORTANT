@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
