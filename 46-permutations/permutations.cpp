@@ -12,7 +12,6 @@ void fun(int index,vector<int>&v,vector<int>&ans,vector<int>&nums,vector<vector<
         if(v[i]==0 && i!=index)
         {
             v[i]=1;
-            cout<<nums[i]<<"  "<<endl;
             ans.push_back(nums[i]);
             fun(i,v,ans,nums,re);
             ans.pop_back();
