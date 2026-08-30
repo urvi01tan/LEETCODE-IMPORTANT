@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Bracket Sequences
 |  |
 | ------- |
