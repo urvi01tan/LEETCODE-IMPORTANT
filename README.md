@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0078-subsets) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
