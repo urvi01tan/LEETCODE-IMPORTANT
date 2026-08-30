@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
