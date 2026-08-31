@@ -42,8 +42,7 @@ ans.push_back(i);
         {
             mini=min(mini,ans[i]-ans[i-1]);
         }
-        for(auto it:ans)
-        cout<<it<<" ";
+      
         return {mini,maxi};
     }
 };
