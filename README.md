@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3903-smallest-stable-index-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
