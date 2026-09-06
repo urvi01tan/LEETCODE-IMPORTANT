@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2090-k-radius-subarray-averages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2126-destroying-asteroids](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2126-destroying-asteroids) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2126-destroying-asteroids) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
