@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
+| [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Bracket Sequences
 |  |
