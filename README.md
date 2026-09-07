@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2126-destroying-asteroids](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2126-destroying-asteroids) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0397-integer-replacement) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1642-furthest-building-you-can-reach](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
