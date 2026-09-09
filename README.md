@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
