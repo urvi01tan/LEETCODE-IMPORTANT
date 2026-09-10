@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0300-longest-increasing-subsequence) |
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0874-walking-robot-simulation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0874-walking-robot-simulation) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0300-longest-increasing-subsequence) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0397-integer-replacement) |
