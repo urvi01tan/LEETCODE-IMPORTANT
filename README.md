@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0874-walking-robot-simulation) |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1642-furthest-building-you-can-reach) |
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -452,4 +456,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3483-unique-3-digit-even-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
