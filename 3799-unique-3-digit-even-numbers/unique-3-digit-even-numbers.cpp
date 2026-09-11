@@ -23,8 +23,7 @@ for(int k=0;k<n;k++)
 }
             }
         }
-    int k=st.size();
-    cout<<k<<endl;
-    return k;
+    
+    return st.size();
     }
 };
