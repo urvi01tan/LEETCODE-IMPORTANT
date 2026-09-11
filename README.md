@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2119-a-number-after-a-double-reversal) |
