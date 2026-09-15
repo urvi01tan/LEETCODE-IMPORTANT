@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2233-maximum-product-after-k-increments) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2284-sender-with-largest-word-count](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2284-sender-with-largest-word-count) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1512-number-of-good-pairs) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2206-divide-array-into-equal-pairs](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2206-divide-array-into-equal-pairs) |
+| [2284-sender-with-largest-word-count](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
