@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0874-walking-robot-simulation) |
+| [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0923-3sum-with-multiplicity) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0397-integer-replacement) |
+| [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
+| [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
 | [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Bracket Sequences
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0836-rectangle-overlap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
