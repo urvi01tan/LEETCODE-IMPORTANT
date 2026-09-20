@@ -1,13 +1,10 @@
 class Solution {
 public:
     int reverseDegree(string s) {
-        int n=s.size();
         int ans=0;
-        for(int i=0;i<n;i++)
+        for(int i=0;i<s.size();i++)
         {
-            int k=(i+1)*(26-(s[i]-'a'));
-
-            ans=ans+k;
+               ans=ans+(i+1)*(26-(s[i]-'a'));
         }
         return ans;
     }
