@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
+| [0290-word-pattern](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0541-reverse-string-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0874-walking-robot-simulation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0874-walking-robot-simulation) |
