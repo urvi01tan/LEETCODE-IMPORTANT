@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3169-count-days-without-meetings](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3169-count-days-without-meetings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3875-construct-uniform-parity-array-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2769-find-the-maximum-achievable-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3870-count-commas-in-range) |
