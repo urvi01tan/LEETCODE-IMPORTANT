@@ -1,37 +1,42 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        // directttt
+
         unordered_map<string, string> mp;
-        string result = "";
-        for (auto i : knowledge)
+
+        for (auto &i : knowledge)
             mp[i[0]] = i[1];
-        int start = -1;
-        int end = -1;
+
+        string result = "";
         string k = "";
-        for (auto it : s) {
-           if (start == 1 && it!='('&& it!=')') {
-    k = k + it;
-}
-else if (it != '(' && it != ')') {
-    result = result + it;
-}
 
-if (it == '(') {
-    start = 1;
-}
-else if (it == ')') {
-    cout<<k<<endl;
-    if (mp.find(k) != mp.end())
-        result += mp[k];
-    else
-        result += '?';
+        int start = -1;
 
-    k = "";
-    start = -1;
-}
+        for (char it : s) {
+
+            if (it == '(') {
+                start = 1;
+            }
+            else if (it == ')') {
+
+                auto pos = mp.find(k);
+
+                if (pos != mp.end())
+                    result += pos->second;
+                else
+                    result += '?';
+
+                k.clear();
+                start = -1;
+            }
+            else if (start == 1) {
+                k += it;
+            }
+            else {
+                result += it;
+            }
         }
-        cout << result;
+
         return result;
     }
 };
