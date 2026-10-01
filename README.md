@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2574-left-and-right-sum-differences) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2942-find-words-containing-character](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0713-subarray-product-less-than-k) |
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2574-left-and-right-sum-differences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3904-smallest-stable-index-ii) |
 ## Math
