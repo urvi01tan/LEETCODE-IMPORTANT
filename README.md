@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2942-find-words-containing-character](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
