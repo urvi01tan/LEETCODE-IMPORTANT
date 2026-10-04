@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0784-letter-case-permutation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2140-solving-questions-with-brainpower](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2140-solving-questions-with-brainpower) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2104-sum-of-subarray-ranges) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
