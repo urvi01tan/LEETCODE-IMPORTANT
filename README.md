@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0784-letter-case-permutation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0826-most-profit-assigning-work) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1642-furthest-building-you-can-reach](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1642-furthest-building-you-can-reach) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
