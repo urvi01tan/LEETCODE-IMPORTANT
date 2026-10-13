@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0443-string-compression) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0290-word-pattern) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0713-subarray-product-less-than-k) |
 | [2090-k-radius-subarray-averages](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2090-k-radius-subarray-averages) |
