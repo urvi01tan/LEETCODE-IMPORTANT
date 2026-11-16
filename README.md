@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2055-plates-between-candles) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2284-sender-with-largest-word-count) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3498-reverse-degree-of-a-string) |
