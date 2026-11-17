@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3765-complete-prime-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3875-construct-uniform-parity-array-i) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3765-complete-prime-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3765-complete-prime-number) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3483-unique-3-digit-even-numbers) |
+| [3765-complete-prime-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3765-complete-prime-number) |
 ## Merge Sort
 |  |
 | ------- |
