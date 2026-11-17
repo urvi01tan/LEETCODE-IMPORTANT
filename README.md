@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
 | [0507-perfect-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0598-range-addition-ii) |
+| [0650-2-keys-keyboard](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0397-integer-replacement) |
+| [0650-2-keys-keyboard](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0907-sum-of-subarray-minimums) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
