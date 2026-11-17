@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2574-left-and-right-sum-differences) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2404-most-frequent-even-element) |
 | [2405-optimal-partition-of-string](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2405-optimal-partition-of-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2469-convert-the-temperature) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -449,15 +452,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3765-complete-prime-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/3765-complete-prime-number) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -581,4 +587,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2221-find-triangular-sum-of-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
