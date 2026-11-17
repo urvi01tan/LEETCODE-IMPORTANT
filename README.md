@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0384-shuffle-an-array) |
+| [0507-perfect-number](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0836-rectangle-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/urvi01tan/LEETCODE-IMPORTANT/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
